@@ -120,7 +120,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: blue;
+    color: rgb(0, 217, 255);
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -235,7 +235,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: ;
+    color: rgb(253, 186, 0);
 }
 .about .about-content .right p{
     text-align: justify;
